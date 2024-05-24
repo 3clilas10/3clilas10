@@ -2,7 +2,7 @@
 
 *meu nome é kauani*
 
-- estou estudando na alura
+- estou estudando na [Alura](https://www.com.alura.br)
 - estou me desenvolvendo na linguagem javascript
 - ultilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
