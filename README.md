@@ -10,7 +10,5 @@
 
 kauani.matos.elias@gmail.com
 
-@kauani_matos
 
-
-![https://tenor.com/bTVoa.gif](https://tenor.com/bTVoa.gif)
+![](https://tenor.com/bTVoa.gif)
